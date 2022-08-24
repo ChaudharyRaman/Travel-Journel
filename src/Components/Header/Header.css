@@ -1,0 +1,18 @@
+.header {
+    width: 50%;
+    margin: 0 auto;
+    height: 55px;
+    background-color: #F55A5A;
+    /* position: relative; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    /* position: absolute; */
+}
+.header span {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    font-weight: 700;
+}
